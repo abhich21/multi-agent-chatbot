@@ -187,7 +187,7 @@ OPENAI_API_KEY	Optional OpenAI key	your-openai-api-key-here
 bash
 Copy code
 # Clone repo
-git clone https://github.com/your-username/multi-agent-chatbot.git
+git clone https://github.com/abhich21/multi-agent-chatbot.git
 cd multi-agent-chatbot
 
 # Start backend
@@ -225,10 +225,5 @@ Frontend: Deploy on Vercel or Netlify
 
 Update API_BASE_URL in frontend/src/config.js with your live backend URL.
 
-🏁 Author
-Your Name
-💼 MERN Developer | AI Integration Specialist
-📧 your.email@example.com
-🌐 LinkedIn
 
 ✨ Enjoy building with AI-powered multi-agent systems!
